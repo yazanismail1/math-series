@@ -7,7 +7,8 @@
 **How to initialize/run the application**
 
 - You must install the requirements in the requirements.txt file
-- python test_series.py -- To run the tests
+- python -m math_series.series -- To run the functions
+- pytest -- To run the tests
 
 **What does this repo includes**
 

@@ -42,3 +42,5 @@ This function takes three arguments.
 **optional fsecond_num (int): second number in the series, if not provided will be 1.
 
 return (int): the number to the nth position.
+
+4. **Tests functions to test the aforementioned functions**
